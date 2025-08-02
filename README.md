@@ -17,14 +17,13 @@ Tech Stack
 - File Handling
 
 Project Structure
-project/
-│
-├── main.py # Main script to process video and track speed
-├── objTracker.py # Contains the object tracking class and logic
-├── resources/ # Folder for storing input/output files
-│ └── Traffic_video.mp4 # (google drive link is being added below)
-├── output/ # showing thw outputs for better understanding
-└── README.md # This file
+### project/
+1. main.py # Main script to process video and track speed
+2. objTracker.py # Contains the object tracking class and logic
+3. resources/ # Folder for storing input/output files
+      a. Traffic_video.mp4 # (google drive link is being added below)
+4. output/ # showing thw outputs for better understanding
+5. README.md # This file
 
 
 
